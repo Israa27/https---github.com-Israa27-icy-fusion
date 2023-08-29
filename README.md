@@ -2,13 +2,12 @@
 
 Welcome to the Icy Fusion Cafe website project! This project utilizes the DOM to dynamically create HTML elements and build a website for a cafe that offers a variety of drinks, salads, and desserts.
 
-## Table of Contents
+## Table of Contents :clipboard:
 - [Introduction](#introduction)
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
