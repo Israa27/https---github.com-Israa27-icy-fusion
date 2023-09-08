@@ -6,7 +6,7 @@ Welcome to the Icy Fusion Cafe website project! This project utilizes the DOM to
 - [Introduction](#introduction)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Usage](#usage)
+- [Demo](#demo)
 
 
 ## Introduction
