@@ -26,7 +26,7 @@ The Icy Fusion Cafe website is created using JavaScript to manipulate the Docume
 
 The design of the Icy Fusion Cafe website was created using Figma. You can view the detailed design and layout on Figma: [Icy Fusion Cafe Figma Design](https://www.figma.com/file/njVVt2gp23uFUPztaK1hHm/backery?type=design&node-id=0%3A1&mode=design&t=Zc91YdaHcR9NylPD-1)
 
-## Usage :film_projector:
+## Demo :film_projector:
 
 To view the website, you can visit the live website: [Icy Fusion Cafe](https://israa27.github.io/icy-fusion/)
 
